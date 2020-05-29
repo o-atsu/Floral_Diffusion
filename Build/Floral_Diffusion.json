@@ -1,7 +1,7 @@
 {
 "companyName": "Random_Marathon_Danmaku_Shooting",
 "productName": "Floral_Diffusion",
-"productVersion": "1.0",
+"productVersion": "1.0.1",
 "dataUrl": "Floral_Diffusion.data.unityweb",
 "wasmCodeUrl": "Floral_Diffusion.wasm.code.unityweb",
 "wasmFrameworkUrl": "Floral_Diffusion.wasm.framework.unityweb",
